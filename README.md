@@ -1,6 +1,6 @@
 # Hi there, I'm Atharv Ananda Bhosale 👋
 
-I'm a Computer Science student at PK Technical Campus, pursuing my BE degree. I have a passion for programming, cybersecurity, and exploring the latest tech trends. I'm constantly learning and building projects to enhance my skills.
+I'm a Computer Science student at PK Technical Campus, pursuing my BE degree. I have a passion for programming, cybersecurity, and exploring the latest tech trends. I'm constantly learning and building projects to enhance my skills..
 
 ## 🌱 I’m currently learning:
 - Data Structures & Algorithms
