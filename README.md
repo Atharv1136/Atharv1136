@@ -11,6 +11,7 @@
 - 🌐 Web Development (JavaScript, React, Node.js, HTML, CSS)
 
 ---
+
 ## 🛠️ Languages & Tools
 - **Programming Languages**:  
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -34,11 +35,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvbhosale&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Atharv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvbhosale&show_icons=true&theme=midnight-purple&count_private=true" alt="Atharv's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=atharvbhosale&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvbhosale&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvbhosale&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvbhosale&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
