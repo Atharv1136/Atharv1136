@@ -26,3 +26,23 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+- **Others**:  
+  ![Data Science](https://img.shields.io/badge/Data_Science-%23121011.svg?style=for-the-badge&logo=data&logoColor=white) 
+ 
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvbhosale&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Atharv's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=atharvbhosale&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvbhosale&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvbhosale)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvbhosale00@gmail.com)
