@@ -37,10 +37,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atharv1136&show_icons=true&theme=midnight-purple&count_private=true" alt="Atharv's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv1136&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharv1136&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv1136&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
