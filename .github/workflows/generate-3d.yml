@@ -2,8 +2,8 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight
-  workflow_dispatch:        # Manual trigger button in Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,15 +20,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Atharv1136
           MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "Atharv1136",
-              "type": "profile-night-rainbow",
-              "totalCommitContributions": true,
-              "totalIssueContributions": true,
-              "totalPullRequestContributions": true,
-              "restrictedContributions": true
-            }
 
       - name: Commit & Push
         run: |
