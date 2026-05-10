@@ -137,9 +137,6 @@
 
 <div align="center">
 
-<!-- Live activity graph - no setup needed, loads instantly -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv1136&bg_color=0D0D0D&color=CC0000&line=CC0000&point=FF6B6B&area=true&area_color=330000&border_color=CC0000&custom_title=Atharv%27s%20Contribution%20Graph%20%F0%9F%95%B8%EF%B8%8F&hide_border=false" width="100%" alt="Contribution Graph"/>
-
 <br/>
 
 <!-- Snake animation - works after GitHub Action runs once -->
