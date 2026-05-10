@@ -121,13 +121,13 @@
 
 ---
 
+
+
 ## 🏙️ 3D Contribution City
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-
-> 🏙️ _Every tower = a day of commits. Taller = more contributions! (Requires GitHub Action setup below)_
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City"/>
 
 </div>
 
@@ -137,7 +137,12 @@
 
 <div align="center">
 
-<!-- Snake animation (appears after GitHub Action is set up) -->
+<!-- Live activity graph - no setup needed, loads instantly -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv1136&bg_color=0D0D0D&color=CC0000&line=CC0000&point=FF6B6B&area=true&area_color=330000&border_color=CC0000&custom_title=Atharv%27s%20Contribution%20Graph%20%F0%9F%95%B8%EF%B8%8F&hide_border=false" width="100%" alt="Contribution Graph"/>
+
+<br/>
+
+<!-- Snake animation - works after GitHub Action runs once -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake.svg"/>
