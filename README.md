@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:CC0000&height=200&section=header&text=Atharv%20Ananda%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20AI%20Developer%20%F0%9F%95%B7%EF%B8%8F%20%7C%20Builder%20%7C%20Hacker%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:CC0000&height=200&section=header&text=Atharv%20Ananda%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20AI%20Developer%20%F0%9F%95%B7%EF%B8%8F%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=CC0000&center=true&vCenter=true&width=700&lines=Hey!+I'm+Atharv+Bhosale+%F0%9F%95%B7%EF%B8%8F;Associate+AI+Developer+%40+Better+Software;Swinging+through+code+like+Spidey+%F0%9F%95%B8%EF%B8%8F;AI+Apps+%7C+Automation+%7C+Full+Stack;With+great+code+comes+great+responsibility!" alt="Typing SVG" />
@@ -121,30 +121,14 @@
 
 ---
 
-
-
 ## 🏙️ 3D Contribution City
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City"/>
-
-</div>
-
----
-
-## 🕸️ Contributions Caught in the Web
-
-<div align="center">
-
-<br/>
-
-<!-- Snake animation - works after GitHub Action runs once -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution City"/>
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City Rainbow"/>
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution City Animated"/>
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution City Season"/>
 
 </div>
 
