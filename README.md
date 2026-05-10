@@ -121,24 +121,13 @@
 
 ---
 
-## 🏙️ Skyline — City Built From My Commits
+## 🏙️ 3D Contribution City
 
 <div align="center">
 
-<!-- GitHub Skyline 3D city visualization -->
-<a href="https://skyline.github.com/Atharv1136/2025" target="_blank">
-  <img src="https://skyline.github.com/Atharv1136/2025.svg" width="100%" alt="GitHub Skyline 2025"/>
-</a>
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
-> 🏙️ _Every building = a day of commits. Click the image to explore in 3D!_
-
-<br/>
-
-<a href="https://skyline.github.com/Atharv1136/2024" target="_blank">
-  <img src="https://skyline.github.com/Atharv1136/2024.svg" width="100%" alt="GitHub Skyline 2024"/>
-</a>
-
-> 🏙️ _2024 Skyline — the city where it all began_
+> 🏙️ _Every tower = a day of commits. Taller = more contributions! (Requires GitHub Action setup below)_
 
 </div>
 
