@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER - Spider-Man red/black -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:CC0000&height=200&section=header&text=Atharv%20Ananda%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20AI%20Developer%20%F0%9F%95%B7%EF%B8%8F%20%7C%20Builder%20%7C%20Hacker%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-atharvbhosale.site-CC0000?style=for-the-badge)](https://atharvbhosale.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharv_Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvbhosale)
 [![Email](https://img.shields.io/badge/Gmail-atharvbhosale00-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvbhosale00@gmail.com)
@@ -25,26 +24,23 @@
 
 ## 🕷️ The Origin Story
 
-```python
-class AtharvBhosale:
-    def __init__(self):
-        self.name        = "Atharv Ananda Bhosale"
-        self.role        = "Associate AI Developer"
-        self.location    = "Pune, Maharashtra, India 🇮🇳"
-        self.university  = "Savitribai Phule Pune University"
-        self.degree      = "B.E. Computer Science (2023–2027)"
-        self.portfolio   = "https://atharvbhosale.site/"
-        self.superpower  = "Turning complex AI challenges into elegant solutions"
-        self.currently   = ["Building AI-powered apps", "Mastering prompt engineering",
-                            "Exploring n8n automation", "Grinding DSA"]
-        self.fun_fact    = "I debug like Spidey — swinging from clue to clue 🕸️"
+<img align="right" src="https://i.pinimg.com/originals/2f/1f/66/2f1f667a6075e09050e619fa626794c5.jpg" width="260" style="border-radius:12px; margin-left:20px;"/>
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+🎓 &nbsp;**B.E. Computer Science** @ Savitribai Phule Pune University *(2023–2027)*
 
-me = AtharvBhosale()
-me.say_hi()
-```
+💼 &nbsp;**Associate AI Developer** @ Better Software *(Dec 2025 – Feb 2026)*
+
+📍 &nbsp;**Pune, Maharashtra, India** 🇮🇳
+
+🌐 &nbsp;Portfolio → [atharvbhosale.site](https://atharvbhosale.site/)
+
+🦸 &nbsp;**Superpower:** Turning complex AI challenges into elegant solutions
+
+🔭 &nbsp;**Currently:** Building AI-powered apps & exploring n8n automation
+
+⚡ &nbsp;**Fun Fact:** I debug like Spidey — swinging from clue to clue 🕸️
+
+<br clear="right"/>
 
 ---
 
@@ -74,17 +70,19 @@ me.say_hi()
 
 ## 🕸️ Mission Files — Projects
 
-<div align="center">
+<img align="left" src="https://i.pinimg.com/originals/ac/9e/88/ac9e8879f4845bba8005b57f4eac28f1.jpg" width="220" style="border-radius:12px; margin-right:20px;"/>
+
+<br/>
 
 | 🦸 Project | 🎯 Mission | 🔗 |
 |:---|:---|:---:|
-| **Digital Labour Chowk** | India's first AI-powered safety-verified labor marketplace — AI sobriety check, worker-buyer matching & financial inclusion | 🔒 |
-| **KISANDHAN** | Smart Agri Platform — crop disease detection, real-time prices, MSP updates & voice assistance for farmers | [🌱 Live](https://kisandhan.netlify.app) |
-| **Rentiverse** | Rental management app — Odoo Hackathon 2025 National Finalist project | 🔒 |
-| **PhishGuard** | Cybersecurity tool detecting phishing URLs & emails using ML pattern analysis | 🔒 |
-| **Tax Mate (Smart ITR)** | React chatbot recommending ITR forms & guiding users through tax filing | 🔒 |
+| **Digital Labour Chowk** | India's first AI labor marketplace — AI sobriety check, worker-buyer matching & financial inclusion | 🔒 |
+| **KISANDHAN** | Smart Agri Platform — crop disease detection, real-time prices, MSP updates & voice assistance | [🌱 Live](https://kisandhan.netlify.app) |
+| **Rentiverse** | Rental management app — Odoo Hackathon 2025 National Finalist | 🔒 |
+| **PhishGuard** | Cybersecurity tool detecting phishing URLs & emails using ML | 🔒 |
+| **Tax Mate (Smart ITR)** | React chatbot guiding users through ITR form filing | 🔒 |
 
-</div>
+<br clear="left"/>
 
 ---
 
@@ -109,17 +107,24 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atharv1136&show_icons=true&theme=github_dark&title_color=CC0000&icon_color=CC0000&border_color=CC0000&count_private=true&hide_border=false" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv1136&layout=compact&theme=github_dark&title_color=CC0000&border_color=CC0000&hide_border=false" height="160"/>
+<!-- WakaTime / activity stats - reliable alternative -->
+<img src="https://github-readme-stats.vercel.app/api?username=Atharv1136&show_icons=true&theme=github_dark&title_color=CC0000&icon_color=CC0000&border_color=330000&count_private=true&hide_border=false&bg_color=0D0D0D" height="165" alt="Atharv's GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv1136&layout=compact&theme=github_dark&title_color=CC0000&border_color=330000&hide_border=false&bg_color=0D0D0D" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Atharv1136&theme=github-dark-blue&ring=CC0000&fire=FF4500&currStreakLabel=CC0000&border=CC0000&hide_border=false" width="480"/>
+<img src="https://streak-stats.demolab.com?user=Atharv1136&theme=github-dark-blue&background=0D0D0D&ring=CC0000&fire=FF4500&currStreakLabel=CC0000&border=330000&sideLabels=CC0000" width="480" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv1136&bg_color=0D1117&color=CC0000&line=CC0000&point=ffffff&area=true&area_color=8B0000&border_color=CC0000&hide_border=false" width="100%"/>
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Atharv1136&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=CC0000" width="100%" alt="Trophies"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv1136&bg_color=0D0D0D&color=CC0000&line=CC0000&point=ffffff&area=true&area_color=330000&border_color=330000&hide_border=false" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -142,6 +147,10 @@ me.say_hi()
 ## 🌐 Swing By & Connect
 
 <div align="center">
+
+<img src="https://i.pinimg.com/originals/71/bf/b7/71bfb7229169a80814940d4905ba95c0.jpg" width="180" style="border-radius:50%;"/>
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-atharvbhosale.site-CC0000?style=for-the-badge)](https://atharvbhosale.site/)
 &nbsp;
