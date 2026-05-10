@@ -20,12 +20,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Atharv1136
           MAX_REPOS: 10
-          SETTING_JSON: settings.json
+          SETTING_JSON: '{"githubUserName":"Atharv1136","type":"profile-night-rainbow"}'
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/ settings.json
+          git add profile-3d-contrib/
           git commit -m "chore: update 3D contribution graph [skip ci]" || echo "Nothing to commit"
           git push
