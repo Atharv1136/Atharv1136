@@ -24,8 +24,6 @@
 
 ## 🕷️ The Origin Story
 
-<img align="right" src="https://i.pinimg.com/originals/2f/1f/66/2f1f667a6075e09050e619fa626794c5.jpg" width="260" style="border-radius:12px; margin-left:20px;"/>
-
 🎓 &nbsp;**B.E. Computer Science** @ Savitribai Phule Pune University *(2023–2027)*
 
 💼 &nbsp;**Associate AI Developer** @ Better Software *(Dec 2025 – Feb 2026)*
@@ -39,8 +37,6 @@
 🔭 &nbsp;**Currently:** Building AI-powered apps & exploring n8n automation
 
 ⚡ &nbsp;**Fun Fact:** I debug like Spidey — swinging from clue to clue 🕸️
-
-<br clear="right"/>
 
 ---
 
@@ -70,9 +66,7 @@
 
 ## 🕸️ Mission Files — Projects
 
-<img align="left" src="https://i.pinimg.com/originals/ac/9e/88/ac9e8879f4845bba8005b57f4eac28f1.jpg" width="220" style="border-radius:12px; margin-right:20px;"/>
-
-<br/>
+<div align="center">
 
 | 🦸 Project | 🎯 Mission | 🔗 |
 |:---|:---|:---:|
@@ -82,7 +76,7 @@
 | **PhishGuard** | Cybersecurity tool detecting phishing URLs & emails using ML | 🔒 |
 | **Tax Mate (Smart ITR)** | React chatbot guiding users through ITR form filing | 🔒 |
 
-<br clear="left"/>
+</div>
 
 ---
 
@@ -107,7 +101,6 @@
 
 <div align="center">
 
-<!-- WakaTime / activity stats - reliable alternative -->
 <img src="https://github-readme-stats.vercel.app/api?username=Atharv1136&show_icons=true&theme=github_dark&title_color=CC0000&icon_color=CC0000&border_color=330000&count_private=true&hide_border=false&bg_color=0D0D0D" height="165" alt="Atharv's GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv1136&layout=compact&theme=github_dark&title_color=CC0000&border_color=330000&hide_border=false&bg_color=0D0D0D" height="165" alt="Top Languages"/>
@@ -118,22 +111,44 @@
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Atharv1136&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=CC0000" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Atharv1136&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7" width="100%" alt="Trophies"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv1136&bg_color=0D0D0D&color=CC0000&line=CC0000&point=ffffff&area=true&area_color=330000&border_color=330000&hide_border=false" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🐍 Spidey's Contributions Getting Caught in the Web
+## 🏙️ Skyline — City Built From My Commits
 
 <div align="center">
 
+<!-- GitHub Skyline 3D city visualization -->
+<a href="https://skyline.github.com/Atharv1136/2025" target="_blank">
+  <img src="https://skyline.github.com/Atharv1136/2025.svg" width="100%" alt="GitHub Skyline 2025"/>
+</a>
+
+> 🏙️ _Every building = a day of commits. Click the image to explore in 3D!_
+
+<br/>
+
+<a href="https://skyline.github.com/Atharv1136/2024" target="_blank">
+  <img src="https://skyline.github.com/Atharv1136/2024.svg" width="100%" alt="GitHub Skyline 2024"/>
+</a>
+
+> 🏙️ _2024 Skyline — the city where it all began_
+
+</div>
+
+---
+
+## 🕸️ Contributions Caught in the Web
+
+<div align="center">
+
+<!-- Snake animation (appears after GitHub Action is set up) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharv1136/Atharv1136/output/github-contribution-grid-snake.svg"/>
@@ -147,10 +162,6 @@
 ## 🌐 Swing By & Connect
 
 <div align="center">
-
-<img src="https://i.pinimg.com/originals/71/bf/b7/71bfb7229169a80814940d4905ba95c0.jpg" width="180" style="border-radius:50%;"/>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-atharvbhosale.site-CC0000?style=for-the-badge)](https://atharvbhosale.site/)
 &nbsp;
