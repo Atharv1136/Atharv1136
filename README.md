@@ -125,10 +125,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution City"/>
-<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City Rainbow"/>
-<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution City Animated"/>
-<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution City Season"/>
+<img src="https://raw.githubusercontent.com/Atharv1136/Atharv1136/main/profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution City"/>
 
 </div>
 
